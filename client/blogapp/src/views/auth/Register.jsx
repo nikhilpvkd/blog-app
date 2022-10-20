@@ -50,7 +50,7 @@ const Register = () => {
                         label="content"
                     />
                     <Button variant="contained">SIGN UP</Button>
-                    <Link href="#" color="primary" align="right">
+                    <Link href="#" to="/login" color="primary" align="right">
                         Already have an account? Sign in
                     </Link>
                 </Stack>
